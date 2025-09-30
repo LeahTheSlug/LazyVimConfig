@@ -1,4 +1,3 @@
 # 💤 LazyVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+This is using LazyVim!! It makes it easy for me!!! I am trying to learn C to begin with but I might learn Rust and Elixir at some point!! I am unsure...
