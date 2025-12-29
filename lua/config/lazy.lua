@@ -20,7 +20,7 @@ require("lazy").setup({
     { "LazyVim/LazyVim", import = "lazyvim.plugins" },
     { import = "lazyvim.plugins.extras.ui.mini-animate" },
     { import = "lazyvim.plugins.extras.lang.elixir" },
-    { import = "lazyvim.plugins.extras.lang.nix" },
+    --{ import = "lazyvim.plugins.extras.lang.nix" },
     { import = "lazyvim.plugins.extras.coding.yanky" },
     { import = "lazyvim.plugins.extras.editor.overseer" },
     { import = "lazyvim.plugins.extras.editor.telescope" },
